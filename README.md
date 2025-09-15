@@ -14,7 +14,7 @@ Os exercícios estão organizados por arquivos, divididos por temas e níveis de
 
 🔹 Vizualize os exercícios:
 
-📁 [`Atividade01.js`](./TodasAtividades/Atividade01.js)
+📁 [`Atividade01.js`](TodasAtividades)
 
 ---
 
