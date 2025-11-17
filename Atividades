@@ -83,6 +83,8 @@ Exercício 36: Usando um laço for, imprima todos os números perfeitos de 1 a 1
 
 Exercício 37: Usando um laço while, imprima a soma dos quadrados dos primeiros 10 números naturais.
 
+Exercício 38: Usando um laço do-while, imprima a soma dos cubos dos primeiros 10 números naturais.
+
 Exercício 39: Usando um laço for, crie um programa que calcule o fatorial de um número.
 
 Exercício 40: Usando um laço while, crie um programa que inverta uma string.
@@ -116,3 +118,94 @@ Exercício 53: Escreva uma função que verifique se um número é primo.
 Exercício 54: Escreva uma função que ordene um array de números em ordem decrescente.
 
 Exercício 55: Escreva uma função que retorne o menor número em um array de números.
+
+Exercício 56: Escreva uma função que retorne o maior número em um array de números.
+
+Exercício 57: Escreva uma função que retorne a soma de todos os números ímpares em um array de números.
+
+Exercício 58: Escreva uma função que retorne a soma de todos os números pares em um array de números.
+
+Exercício 59: Escreva uma função que receba um array de números e retorne um novo array com todos os números duplicados.
+
+Exercício 60: Escreva uma função que receba um array de números e retorne um novo array com todos os números ao quadrado.
+
+Exercício 61: Escreva uma função que receba um array de números e retorne um novo array com a raiz quadrada de todos os números.
+
+Exercício 62: Escreva uma função que receba um número e retorne uma string repetida aquele número de vezes.
+
+Exercício 63: Escreva uma função que receba um número e retorne um array com todos os números primos até aquele número.
+
+Exercício 64: Escreva uma função que receba uma string e retorne o número de palavras na string.
+
+Exercício 65: Escreva uma função que aceite um array de números e uma função de callback e retorne a soma de todos os números do array após a aplicação da função de callback.
+
+
+Exercício 66: Escreva uma função que aceite uma função de callback que retorne verdadeiro ou falso e um array, e retorne um novo array que contém apenas os elementos para os quais a função de callback retornou verdadeiro.
+
+Exercício 67: Escreva uma função que aceite uma função de callback e um array de arrays, e retorne um novo array que contém os resultados de aplicar a função de callback a cada array.
+
+Exercício 68: Escreva uma função de alta ordem que aceite um array de números e uma função de callback, e retorne um novo array que contém apenas os números do array original que satisfazem a condição da função de callback.
+
+Exercício 69: Escreva uma função que aceite um número e uma função de callback, e execute a função de callback o número de vezes especificado.
+
+Exercício 70: Escreva uma função de alta ordem que aceite um array de funções de callback e um valor, e retorne um array de resultados de aplicar cada função de callback ao valor.
+
+Exercício 71: Escreva uma função que aceite uma função de callback e um número, e execute a função de callback após um certo número de milissegundos especificados pelo número.
+
+Exercício 72: Escreva uma função que aceite um número, um array de funções de callback e um valor inicial, e retorne o resultado final após a aplicação de todas as funções de callback no valor inicial, o número de vezes especificado.
+
+Exercício 73: Escreva uma função de alta ordem que aceite um número, um array de funções de callback e um valor inicial, e retorne o resultado final após a aplicação de todas as funções de callback no valor inicial, a cada "n" milissegundos.
+
+Exercício 74: Escreva uma função de alta ordem que aceite uma função de callback e um array, e retorne um novo array que contém os resultados de aplicar a função de callback a cada elemento do array, sem alterar o array original.
+
+Exercício 75: Escreva uma função de alta ordem que aceite um array de funções de callback e um valor, e retorne um novo array que contém os resultados de aplicar a função de callback ao valor, na ordem inversa.
+
+Exercício 76: Crie um objeto vazio e adicione três propriedades a ele, cada uma com diferentes tipos de valores.
+
+Exercício 77: Crie um objeto que represente um livro, com propriedades para o título, autor e número de páginas. Em seguida, adicione um método ao objeto que imprima uma descrição do livro.
+
+Exercício 78: Crie um objeto "cachorro" com propriedades para raça, nome e idade. Adicione um método que retorne a idade do cachorro em anos humanos (idade do cachorro * 7).
+
+Exercício 79: Crie um objeto que represente um carro, com propriedades para a marca, modelo, ano e velocidade atual, e os seguintes métodos: acelerar, frear e obter velocidade atual.
+
+Exercício 80: Crie um objeto que represente um estudante, com propriedades para o nome, notas de várias matérias e um método para calcular a média das notas.
+
+Exercício 81: Crie um objeto representando uma conta bancária, que possui uma propriedade de saldo e métodos para depósito e saque.
+
+Exercício 82: Crie um objeto "circulo" que possui uma propriedade de raio e dois métodos que calculam a área e a circunferência.
+
+Exercício 83: Crie um objeto "tempo" que possui propriedades para horas, minutos e segundos, e um método para converter o tempo para segundos.
+
+Exercício 84:  Crie um objeto "retangulo" que possui propriedades para altura e largura, e um método para calcular a área.
+
+Exercício 85: Crie um objeto "quadrado" que herda as propriedades do objeto "retangulo" e substitua o método para calcular a área.
+
+Exercício 86:  Crie um objeto "livro" que possui propriedades para o título, autor e número de páginas, e um método para exibir o livro na console.
+
+Exercício 87: Dado dois arrays, um com vários números pares e outro com números ímpares, combine-os e, em seguida, filtre apenas os números que são múltiplos de 5.
+
+Exercício 88: Dado um array de preços de produtos, calcule o preço total após adicionar 10% de imposto a cada produto usando map(), e depois somando tudo com reduce().
+
+Exercício 89: Dada uma string com várias palavras separadas por espaços, transforme-a em um array e depois retorne a palavra mais longa.
+
+Exercício 90: Dado um array que contém vários elementos duplicados, crie uma função que remova todas as duplicatas e retorne um array com elementos únicos.
+
+Exercício 91: Dado um array de strings, ordene-o em ordem decrescente com base no comprimento de cada string.
+
+Exercício 92: Dado um array de objetos que têm várias propriedades, crie uma função que retorne um novo array contendo apenas os valores de uma propriedade específica.
+
+Exercício 93: Dado um array de números, encontre a mediana.
+
+Exercício 94: Dado um array de strings e um número n, retorne um novo array contendo apenas as strings que têm mais de n caracteres.
+
+Exercício 95: Dado dois arrays, retorne um novo array que é a concatenação dos dois.
+
+Exercício 96: Dado dois arrays, verifique se o segundo array é um subarray do primeiro.
+
+Exercício 97: Dado um array, encontre o elemento que aparece mais vezes.
+
+Exercício 98: Dado um array de strings e um array de palavras proibidas, retorne um novo array sem as palavras proibidas.
+
+Exercício 99: Dado um array, retorne um novo array com todas as combinações possíveis de pares de elementos.
+
+Exercício 100: Dado um array e um número n, divida o array em várias sub-arrays onde cada sub-array tem no máximo n elementos.
