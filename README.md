@@ -1,6 +1,6 @@
 # 🚀 100 Exercícios em JavaScript
 
-Bem-vindo(a)! Este repositório contém **200 exercícios práticos de JavaScript** para te ajudar a aprender, praticar e dominar a linguagem. Cada exercício aborda conceitos importantes, do básico ao avançado, com foco em capacidade de resolução, raciocínio lógico e boas práticas.
+Bem-vindo(a)! Este repositório contém **100 exercícios práticos de JavaScript** para te ajudar a aprender, praticar e dominar a linguagem. Cada exercício aborda conceitos importantes, do básico ao avançado, com foco em capacidade de resolução, raciocínio lógico e boas práticas.
 
 ---
 
